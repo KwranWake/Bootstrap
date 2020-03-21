@@ -1,0 +1,32 @@
+.carousel-inner {
+    width: 1900px;
+    height: 450px;
+}
+
+.container-section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container-footer {
+    margin-top: 30px;
+}
+
+.container-footer-div {
+    margin-left: 38px;
+    border-top: 1px solid #c3c3c3;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+    
+
+}
+
+.container-footer-div a {
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+
+}
