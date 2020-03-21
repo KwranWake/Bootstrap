@@ -10,6 +10,16 @@
 
 }
 
+.section-text {
+    width: 100%;
+    background-color: lightslategrey;
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    text-align: left;
+} 
+
 .container-footer {
     margin-top: 30px;
 }
